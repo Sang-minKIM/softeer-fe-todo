@@ -52,7 +52,7 @@
 </ul>
 <h2>🪵 Branch Convention</h2>
 
-![Image](https://github.com/users/Sang-minKIM/projects/1/assets/87116017/442fa51c-352b-4c2b-bc5b-6c3b4947f6f5)
+![Image](https://private-user-images.githubusercontent.com/87116017/296705004-442fa51c-352b-4c2b-bc5b-6c3b4947f6f5.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDUzMTE2MzQsIm5iZiI6MTcwNTMxMTMzNCwicGF0aCI6Ii84NzExNjAxNy8yOTY3MDUwMDQtNDQyZmE1MWMtMzUyYi00YzJiLWJjNWItNmMzYjQ5NDdmNmY1LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAxMTUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMTE1VDA5MzUzNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTVlMTNiMzgzZjc0NmIyZDc5NmVhYWZlZmU0ZmM0YjljMGE5ZDgyYTk1ZDMyYWZjZGM2MzM5NzY4NmZjOWViMzcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.UdBs6SCjd97QD9glGv4EE-1fTMkopSwzXMwljYOMv5w)
 
 <ul>
 <li>Issue를 생성한다. (작업의 단위, 번호 부여)</li>
